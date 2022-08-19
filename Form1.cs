@@ -19,7 +19,7 @@ namespace Test
 
         private void button1_Click(object sender, EventArgs e)
         {
-            textBox1.Text += "x";
+            textBox1.Text += "y";
         }
     }
 }
